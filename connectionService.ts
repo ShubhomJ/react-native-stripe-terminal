@@ -1,7 +1,7 @@
 // @ts-ignore
 import EventEmitter from 'eventemitter3';
 // @ts-ignore
-import AsyncStorage from '@react-native-community/async-storage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import * as types from './types';
 
