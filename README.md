@@ -2,6 +2,8 @@
 
 React Native wrapper for the [Stripe Terminal](https://stripe.com/docs/terminal/ios) SDK. (iOS & Android compatible!)
 
+For Stripe Terminal SDK 2.0 beta, use this [fork](https://github.com/nawaz4225/react-native-stripe-terminal/commit/9f0862acec5dc863bd4ab81d0712d5b946deb4b4).
+
 ## Getting started
 
 First, follow all Stripe instructions under ["Install the iOS SDK"](https://stripe.com/docs/terminal/sdk/ios#install) and/or ["Install the Android SDK"](https://stripe.com/docs/terminal/sdk/android#install) (depending on your platform). Then:
